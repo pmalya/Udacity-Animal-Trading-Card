@@ -1,0 +1,42 @@
+.mainborder{
+  border:1px solid silver;
+  width: 300px;
+  height:auto;
+  box-shadow: 6px 10px 7px 1px rgba(201,199,200,1);
+  padding: 0 10px 10px 10px;
+  background-image: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family:Trebuchet MS;}
+
+.animalname{
+  font-family:Courier New;
+  text-align:center;
+  padding-top: 15px;
+  color: rgb(255, 230, 204)}
+
+.pug-pic{
+  box-sizing: border-box;
+  width: 300px;
+  border: 5px solid rgb(128, 85, 0);
+  border-radius: 30px;
+  box-shadow: rgb(128, 85, 0);}
+
+.interesting{
+  font-style:italic;}
+
+.factlist{
+  list-style: none;
+  padding-left: 0;}
+
+.fact{
+  font-weight:bold}
+
+.text{
+  border: 5px solid rgb(128, 85, 0);
+  border-radius: 30px;
+  padding:0 10px;
+  text-align: justify;
+  margin: 10px 0;
+  background:rgba(200, 54, 54, 0.2);}
